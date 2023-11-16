@@ -1,0 +1,8 @@
+llama-gpt/
+venv/
+.idea/
+__pycache__/
+*.env
+.env
+*.pyc
+*.sqlite3
